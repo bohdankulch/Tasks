@@ -1,0 +1,8 @@
+D:\Documents\Program C#\Tasks\TASK 1. Rail Fence Cipher\bin\Debug\netstandard2.0\TASK 1. Rail Fence Cipher.deps.json
+D:\Documents\Program C#\Tasks\TASK 1. Rail Fence Cipher\bin\Debug\netstandard2.0\TASK 1. Rail Fence Cipher.dll
+D:\Documents\Program C#\Tasks\TASK 1. Rail Fence Cipher\bin\Debug\netstandard2.0\TASK 1. Rail Fence Cipher.pdb
+D:\Documents\Program C#\Tasks\TASK 1. Rail Fence Cipher\obj\Debug\netstandard2.0\TASK 1. Rail Fence Cipher.csprojAssemblyReference.cache
+D:\Documents\Program C#\Tasks\TASK 1. Rail Fence Cipher\obj\Debug\netstandard2.0\TASK 1. Rail Fence Cipher.AssemblyInfoInputs.cache
+D:\Documents\Program C#\Tasks\TASK 1. Rail Fence Cipher\obj\Debug\netstandard2.0\TASK 1. Rail Fence Cipher.AssemblyInfo.cs
+D:\Documents\Program C#\Tasks\TASK 1. Rail Fence Cipher\obj\Debug\netstandard2.0\TASK 1. Rail Fence Cipher.dll
+D:\Documents\Program C#\Tasks\TASK 1. Rail Fence Cipher\obj\Debug\netstandard2.0\TASK 1. Rail Fence Cipher.pdb
